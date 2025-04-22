@@ -71,7 +71,7 @@ Each HTML file in the web_static directory represents a step in the development 
 2-index.html: HTML page with external CSS files
 And so on...
 
-## CSS Files
+CSS Files
 The CSS files provide styling for the HTML pages, organized in the styles directory:
 
 common.css: Common styles for all pages
@@ -79,7 +79,7 @@ header.css: Styles for the header section
 footer.css: Styles for the footer section
 places.css: Styles for the places/properties section
 
-## Learning Objectives
+Learning Objectives
 What is HTML and how to create an HTML page
 What is CSS and how to add style to an element
 What is the DOM and how to access it
@@ -88,7 +88,7 @@ What are the different APIs available in JavaScript
 How to manipulate CSS from JavaScript
 How to work with the browser loading process
 
-## Requirements
+Requirements
 All files should end with a new line
 A README.md file at the root of the folder
 HTML and CSS code should be W3C compliant
